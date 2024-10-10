@@ -1,6 +1,6 @@
 ---
 title: Home
-Layout: Page
+Layout: page
 ---
 
 # Art Categorizer:
