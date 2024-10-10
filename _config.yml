@@ -1,0 +1,9 @@
+remote_theme: minimal-mistakes@master
+plugnis:
+  - jeykill-remote-pull
+
+title: Art Categorizer
+description: An art classification model classifies 15 different art styles.
+
+author:
+  name: Syed Mohammed Mostaque Billah
